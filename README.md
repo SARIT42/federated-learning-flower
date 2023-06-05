@@ -1,2 +1,2 @@
 # federated-learning-flower
-federated learning basics implementation tutorial notebooks.
+federated learning with flower - basics implementation tutorial notebooks.
